@@ -6,3 +6,4 @@ starting point to an end point.
 The web application renders a maze to begin with and lets users to mark the start point and end
 point. Then clicking the "START" button shows you how the algorithm searches for the end point.
 
+The application is implemented using React.
